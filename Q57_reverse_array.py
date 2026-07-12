@@ -1,3 +1,0 @@
-# Q57 - Reverse array
-arr = list(map(int, input("Enter elements: ").split()))
-print("Reversed:", arr[::-1])
